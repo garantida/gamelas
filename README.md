@@ -10,3 +10,7 @@
 - **A**ntifragilidade em rede
 
 ("Gamela" é tipo uma panelinha, só que aberta 🤪)
+
+# Dúvidas?
+
+Dê um pulo no [fórum aberto](https://github.com/garantida/garantida.dev/discussions) (Discussions do GitHub) e pergunte pra gente.
