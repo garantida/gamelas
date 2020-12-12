@@ -11,6 +11,20 @@
 
 ("Gamela" é tipo uma panelinha, só que aberta 🤪)
 
+## Grupos pequenos e sazonais
+
+TBD
+
+## Ajuda mútua
+
+## Multiplicativos
+
+## Enriquecimento multidimensional
+
+## Liberdade econômica
+
+## Antifragilidade em rede
+
 ## Dúvidas?
 
 Dê um pulo no [fórum aberto](https://github.com/garantida/garantida.dev/discussions) (Discussions do GitHub) e pergunte pra gente.
