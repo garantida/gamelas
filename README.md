@@ -1,2 +1,8 @@
-# groupfork
-an adaptable playbook for self-replicating small online support groups
+# Gamela
+
+- Grupo de
+- Ajuda mútua
+- Multiplicativo para
+- Enriquecimento multidimensional
+- Liberdade econômica e
+- Antifragilidade em rede
