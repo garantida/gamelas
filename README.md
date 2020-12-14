@@ -1,4 +1,4 @@
-# Gamelas
+# 🥣 Gamelas
 
 <img src="gamela-rustica-em-madeira-massaranduba-091-decoracao-para-area-de-churrasco.jpg" alt="gamela" width="300" />
 
